@@ -24,6 +24,12 @@ int main() {
     c_obtained = c_in + c_intUB;
     c_extra = c_obtained - c_need;
     
+    string word = "1.123450634866";
+    long double x = atof(word.c_str());
+    //x = 1.123450634866;
+    cout.precision(15);
+    cout << word << "," << x << endl;
+    
     cout << "Hello, World!\n";
     return 0;
 }

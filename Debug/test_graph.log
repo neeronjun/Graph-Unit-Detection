@@ -1,0 +1,18 @@
+﻿  test_graph.cpp
+C:\Users\nrai\source\repos\test_graph\test_graph.cpp(92,32): warning C4101: 'a': unreferenced local variable
+C:\Users\nrai\source\repos\test_graph\test_graph.cpp(92,38): warning C4101: 'b': unreferenced local variable
+C:\Users\nrai\source\repos\test_graph\test_graph.cpp(109,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nrai\source\repos\test_graph\test_graph.cpp(119,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nrai\source\repos\test_graph\test_graph.cpp(119,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nrai\source\repos\test_graph\test_graph.cpp(120,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nrai\source\repos\test_graph\test_graph.cpp(120,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nrai\source\repos\test_graph\test_graph.cpp(121,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nrai\source\repos\test_graph\test_graph.cpp(121,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nrai\source\repos\test_graph\test_graph.cpp(144,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nrai\source\repos\test_graph\test_graph.cpp(158,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nrai\source\repos\test_graph\test_graph.cpp(295,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nrai\source\repos\test_graph\test_graph.cpp(343,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nrai\source\repos\test_graph\test_graph.cpp(343,32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nrai\source\repos\test_graph\test_graph.cpp(182,46): warning C4101: 'uc_count': unreferenced local variable
+C:\Users\nrai\source\repos\test_graph\test_graph.cpp(183,23): warning C4101: 'comm_arr': unreferenced local variable
+  test_graph.vcxproj -> C:\Users\nrai\source\repos\test_graph\Debug\test_graph.exe
